@@ -48,13 +48,13 @@ img{
 .brandName3{
     position: relative;
     right: 2rem;
-    color: rgb(245, 41, 54) !important;
+    color: #aeff3d!important;
     font-weight: 600;
     transition: .8s;
 }
 
 .brandName3:hover{
-    color: rgb(141, 4, 13) !important;
+    color: #aeff3d !important;
 }
 
 .navContainer{
@@ -85,7 +85,7 @@ img{
 }
     
 .navContainer div a .uil-estate{
-    color: rgb(245, 41, 54) ;
+    color: #aeff3d ;
 }
 
 .uil-align{
@@ -129,15 +129,15 @@ input[type="text"]{
     white-space: nowrap;
     width: 8rem;
     height: 2rem;
-    color: white;
+    color: black;
     font-size: 1rem;
     outline: none;
     border: none;
     border-radius: 16px;    
-    background-color:rgb(245, 41, 54);
+    background-color:#aeff3d;
 }
 .addQuestion:hover{
-    background-color:rgb(247, 0, 16);
+    background-color:#aeff3d;
 }
 
 .titleImg{
